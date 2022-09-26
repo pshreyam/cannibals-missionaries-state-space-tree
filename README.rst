@@ -12,7 +12,7 @@ This problem has been implemented in the form of different games. Also, there ar
 Solution using AI
 ~~~~~~~~~~~~~~~~~
 
-Artificial Intelligence (AI) has been found to be very effective in handling/solving this type of problems. The basic idea is to generate the search space tree for the problem and then perform search on the tree using any searching algorithm.
+Artificial Intelligence (AI) has been found to be very effective in handling/solving these type of problems. The basic idea is to generate the search space tree for the problem and then perform search on the tree using any searching algorithm.
 
 One of the best approaches for searching is Breadth First Search (BFS), where all the children of live nodes are generated before moving to the next depth level.
 
